@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MathTools</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_funzioni_base">FunzioniBase</string>
+    <string name="title_activity_pagina_logaritmi">PaginaLogaritmi</string>
+    <string name="title_activity_pagina_equazioni">PaginaEquazioni</string>
+    <string name="title_activity_pagina_equazioni_secondo_grado">PaginaEquazioniSecondoGrado
+    </string>
+</resources>
